@@ -1,1 +1,1 @@
-# go-coffee-machine
+# coffee-machine
